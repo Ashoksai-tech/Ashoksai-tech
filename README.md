@@ -14,7 +14,7 @@ I’m a results-driven **Machine Learning Engineer** with expertise in:
 - ✅ Building **LLM-powered agents and tools** with **LangChain**, **OpenAI**, and **vector databases**
 - ✅ Creating **interactive dashboards** using **Power BI** and **Excel**
 - ✅ Implementing **data-driven decision systems** with **Python**, **SQL**, and scalable frameworks
-- ✅ Prototyping and deploying ML apps using **Streamlit**, **FastAPI**, and **Docker**
+- ✅ Prototyping and deploying ML apps using **Streamlit**, **FastAPI**
 
 I love translating business problems into **data science solutions**, with clean, scalable, and modular code.
 
