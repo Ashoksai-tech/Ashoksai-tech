@@ -43,7 +43,7 @@ I love translating business problems into **data science solutions**, with clean
 
 - 🎯 **Customer Lifetime Value Prediction**  
   → ML pipeline, RFM segmentation, model evaluation, and Streamlit deployment  
-  → [GitHub Repo](https://github.com/Ashoksai-tech/AI-Driven-Customer-Lifetime-Value-Prediction-and-Segmentation) | [Live Demo](#)
+  → [GitHub Repo](https://github.com/Ashoksai-tech/AI-Driven-Customer-Lifetime-Value-Prediction-and-Segmentation)
 
 - 🤖 **Face Recognition-Based Attendance System**  
   → Real-time detection with OpenCV, Firebase integration, GUI with Streamlit  
